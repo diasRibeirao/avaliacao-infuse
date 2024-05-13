@@ -26,7 +26,8 @@ O arquivo pode conter 1 ou mais pedidos, limitado a 10.
 Não poderá aceitar um número de controle já cadastrado.
 Caso a data de cadastro não seja enviada o sistema deve assumir a data atual.
 Caso a quantidade não seja enviada considerar 1.
-Caso a quantidade seja maior que 5 aplicar 5% de desconto no valor total, para quantidades a partir de 10 aplicar 10% de desconto no valor total.
+Caso a quantidade seja maior que 5 aplicar 5% de desconto no valor total, <br>
+para quantidades a partir de 10 aplicar 10% de desconto no valor total.
 O sistema deve calcular e gravar o valor total do pedido.
 Assumir que já existe 10 clientes cadastrados, com códigos de 1 a 10.
 ```

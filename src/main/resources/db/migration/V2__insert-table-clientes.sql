@@ -1,0 +1,10 @@
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PF', '54824850053', 'Silva & Filhos Consultoria');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PF', '93162072077', 'Oliveira Moda e Estilo');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PF', '99974230039', 'Lima Design de Interiores');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PF', '10078427096', 'Pereira Manutenção Predial');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PF', '14351347023', 'Ferreira Paisagismo');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PJ', '50228235000103', 'Tech Solutions Ltda');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PJ', '16512209000174', 'Consultoria Empresarial Rodrigues Ltda');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PJ', '88081954000117', 'Segurança Patrimonial Costa & Costa Ltda');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PJ', '60523139000141', 'Indústria de Moda Bella Vista S.A');
+INSERT INTO clientes(TIPO,CPF_OU_CNPJ,NOME) VALUES ('PJ', '33628903000170', 'Comércio de Alimentos Araújo & Cia');
